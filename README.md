@@ -7,6 +7,6 @@ this repo contain a docx file in which difference of multi-threading and multi-t
 <li> What is Multitasking Operating System?</li>
 <li>Example of multi- </li>
 <li>Multi asking in Rust  </li>
-</li>Differences </li>
+<li>Differences </li>
 <li>conclusion </li>
 </ul>
