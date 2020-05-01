@@ -1,5 +1,5 @@
 # Multithreading-multitasking-difference
-this repo contain a docx file in which difference of multi-threading and multi-tasking in rust discuss in detail
+this repo contain a docx file in which difference of multi-threading and multi-tasking in rust area discuss in detail
 <ul>
 <li> What is Multithreading Operating System?</li>
 <li> Example of multi-threading</li>
